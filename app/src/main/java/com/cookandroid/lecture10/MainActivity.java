@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         runMap.put(R.id.main_btn_exam10, Exam10.class);
 
         runMap.put(R.id.main_btn_prac01, Prac01.class);
+        runMap.put(R.id.main_btn_prac02, Prac02.class);
     }
 
     public void btnChecked(View v){

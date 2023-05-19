@@ -93,6 +93,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
 
+            <Button
+                android:id="@+id/main_btn_prac02"
+                android:text="@string/main_btn_prac02"
+                android:onClick="btnChecked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
         </LinearLayout>
 
     </ScrollView>
