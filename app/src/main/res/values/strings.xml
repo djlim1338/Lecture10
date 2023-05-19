@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">강의10장(12주차)</string>
 
-    <string name="main_btn_exam01">예제1</string>
+    <string name="main_btn_exam01">실습10-1 액티비티 추가</string>
+    <string name="main_btn_exam02">실습10-1 수정</string>
+    <string name="main_btn_exam03">레이팅바</string>
+    <string name="main_btn_exam04">실습 10-2 명화 선호도 투표 앱 만들기</string>
+    <string name="main_btn_exam05">실습 10-2 명화 선호도 투표 앱 수정</string>
+    <string name="main_btn_exam06">양방향 액티비티</string>
+
+    <string name="main_btn_prac01">연습문제 5번</string>
 </resources>

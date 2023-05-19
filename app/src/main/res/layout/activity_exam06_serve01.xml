@@ -5,13 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="10dp"
-    tools:context=".Exam01">
+    tools:context=".Exam06_serve01">
 
     <Button
-        android:id="@+id/btnNewActivity"
+        android:id="@+id/btnReturn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="새 화면 열기" />
+        android:text="돌아가기" />
 
 </LinearLayout>
