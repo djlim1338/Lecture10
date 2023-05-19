@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
         runMap.put(R.id.main_btn_exam04, Exam04.class);
         runMap.put(R.id.main_btn_exam05, Exam05.class);
         runMap.put(R.id.main_btn_exam06, Exam06.class);
+        runMap.put(R.id.main_btn_exam07, Exam07.class);
+        runMap.put(R.id.main_btn_exam08, Exam08.class);
+        runMap.put(R.id.main_btn_exam09, Exam09.class);
+        runMap.put(R.id.main_btn_exam10, Exam10.class);
 
         runMap.put(R.id.main_btn_prac01, Prac01.class);
     }

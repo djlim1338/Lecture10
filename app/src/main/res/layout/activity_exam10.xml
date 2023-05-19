@@ -5,12 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Exam07_serve01">
+    tools:context=".Exam10">
 
     <Button
-        android:id="@+id/btnReturn"
+        android:id="@+id/btnDial"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="돌아가기" />
+        android:text="전화걸기" />
+
+    <Button
+        android:id="@+id/btnFinish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="끝내기" />
 
 </LinearLayout>

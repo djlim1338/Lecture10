@@ -59,6 +59,34 @@
                 android:layout_height="wrap_content"/>
 
             <Button
+                android:id="@+id/main_btn_exam07"
+                android:text="@string/main_btn_exam07"
+                android:onClick="btnChecked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:id="@+id/main_btn_exam08"
+                android:text="@string/main_btn_exam08"
+                android:onClick="btnChecked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:id="@+id/main_btn_exam09"
+                android:text="@string/main_btn_exam09"
+                android:onClick="btnChecked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:id="@+id/main_btn_exam10"
+                android:text="@string/main_btn_exam10"
+                android:onClick="btnChecked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <Button
                 android:id="@+id/main_btn_prac01"
                 android:text="@string/main_btn_prac01"
                 android:onClick="btnChecked"
